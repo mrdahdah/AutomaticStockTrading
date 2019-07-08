@@ -1,1 +1,2 @@
-# 2019-AI-Internship
+#STEM-Summer-Research-Internship
+
